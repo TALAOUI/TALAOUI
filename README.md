@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taia
 - 👀 I’m interested in AI and data science applied to health care and human activity monitoring
-- 🌱 I’m currently learning reinforcement-learning and also Github haha!!
+- 🌱 I’m currently learning reinforcement-learning, among other things...
 - 💞️ I’m looking to collaborate on health-care apps that benefit from AI advances
 - 📫 How to reach me ... fadouataia@gmail.com
 
